@@ -92,7 +92,7 @@ namespace Task3_1
             // check for pairs of coordinates are exist
             else if (
                     (point1x == point2x || point2x == point3x || point3x == point1x) &&
-                    (point1y == point2y || point2y == point3y || point3y == point1x)
+                    (point1y == point2y || point2y == point3y || point3y == point1y)
                     )
             {
                 // find position of 4th point
